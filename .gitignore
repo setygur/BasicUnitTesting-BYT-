@@ -1,0 +1,120 @@
+# ======================================
+#  JetBrains Rider + .NET / C# projects
+# ======================================
+
+# Build results
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Rider & IntelliJ IDEA project files
+.idea/
+*.sln.iml
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+*.userprefs
+
+# Rider workspace
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/httpRequests/
+.idea/caches/
+
+# Visual Studio Code (optional)
+.vscode/
+
+# Test results
+TestResult.xml
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Auto-generated files
+Generated_Code/
+*.generated.cs
+
+# NuGet packages
+*.nupkg
+*.snupkg
+*.nuspec
+packages/
+*.nuget.props
+*.nuget.targets
+*.lock.json
+
+# Ignore build artifacts
+project.lock.json
+artifacts/
+publish/
+wwwroot/
+
+# Backup & temp files
+*.bak
+*.tmp
+*.temp
+~$*
+*.swp
+*.swo
+
+# Resharper & Rider caches
+_ReSharper*/
+*_Resharper*/
+*.DotSettings.user
+.idea/.idea.*
+.idea/system/
+
+# OS-specific junk
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Dotnet tools & caches
+.vs/
+.nuget/
+*.dotCover
+*.ncrunchsolution
+*.ncrunchproject
+*.nunit.xml
+
+# Rider HTTP client requests
+.idea/httpRequests/
+.idea/shelf/
+
+# Local environment settings
+*.env
+.env.*
+
+# Rider solution metadata
+*.sln.iml
+
+# JetBrains Rider cache folder
+.idea/.idea.<project_name>.dir
+
+# Local history (Rider)
+.idea/localHistory/
+
+# Build output
+bin/
+obj/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Coverage
+coverage/
+*.opencover.xml
+
+# Other tooling
+node_modules/
+dist/
